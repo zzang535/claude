@@ -1,0 +1,9 @@
+# Ignore everything
+*
+*/
+
+# Except CLAUDE.md, .gitignore, and rules/
+!CLAUDE.md
+!.gitignore
+!rules/
+!rules/**
